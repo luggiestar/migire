@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448723485142",
+    "project_id": "checkup-a5d21",
+    "storage_bucket": "checkup-a5d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448723485142:android:9c96b8e2176e18b7d92477",
+        "android_client_info": {
+          "package_name": "com.example.quiz_ame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448723485142-rdp06u2q7c4so4letqbdvn9ud0qk26ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZyNuSfwlC1pZUcOSDv-wz1J2hrznssl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448723485142-rdp06u2q7c4so4letqbdvn9ud0qk26ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
